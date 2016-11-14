@@ -10,4 +10,5 @@ rvm:
 - jruby-19mode
 
 before_install:
+- gem install bundler
 - gem --version
